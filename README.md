@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bencazzy
-- 👀 I’m interested in frontend and backend web developing.
+- 👀 I’m interested in frontend and backend web development.
 - 🌱 I’m currently learning PHP.
 - 📫 How to reach me: My Discord: Bencazzy_ツ#5285
 
